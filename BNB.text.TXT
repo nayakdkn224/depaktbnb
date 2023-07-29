@@ -1,0 +1,12 @@
+step 1 - add metamask from google chrome signingup .
+steep- 2- we need to add tbnb network in our network section . 
+step-3 - add mannualy  testbnb
+ 
+after add then need to get test bnb 
+stp4-  https://testnet.bnbchain.org/faucet-smart
+
+after get textbnb for Gas fee . then need to create token on TBNB .
+
+STEP -5  - so now i need to go for create token from    https://app.team.finance/mint
+
+step - one by one we need to follow and rest of take screenshort .
